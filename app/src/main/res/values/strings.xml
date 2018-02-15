@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="load_wait">Loading, please wait..</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_alert_message">Loading, Please Wait..</string>
+    <string name="process_completed_alert_message">Process Completed</string>
+    <string name="desc">is a 2014 science fiction film directed, co-written, and co-produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole in search of a new home for humanity.</string>
+    <string name="release_year">Release Year: </string>
+    <string name="rating">Rating: </string>
+    <string name="movie_name">Name</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_desc">Description</string>
+</resources>
